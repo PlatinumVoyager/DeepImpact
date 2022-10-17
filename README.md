@@ -1,2 +1,2 @@
 # DeepImpact
-DeepImpact is a suite of Network discovery tools utilized to acquire/obtain information on remote hosts/systems which can be further de-constructed to gain an understanding of LOCAL or REMOTE targets across ALL domains. Information returned will be propagated through a relational database to match and compare information that was collected at differential time stamps.
+DeepImpact is a suite of Network discovery tools utilized to acquire/obtain information on remote hosts/systems which can be further de-constructed to gain an understanding of LOCAL or REMOTE targets across ALL domains. Information returned will be propagated through a relational database to match and compare information that was collected via differential time stamps.
